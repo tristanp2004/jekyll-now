@@ -1,8 +1,8 @@
 ---
-title: lesson 2 of python and code academy
+title: lesson 3 of python and code academy
 layout: post
 author: tristan.payne
-permalink: /lesson-2-of-python-and-code-academy/
+permalink: /lesson-3-of-python-and-code-academy/
 source-id: 1BkfIRHVtp3LrFKPSlbNRTBs07v43x2Ct413TYuFGLss
 published: true
 ---
